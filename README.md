@@ -9,25 +9,22 @@
 
 ### 🛠️ Tech Toolkit
 - &zwnj;**📚 Languages**&zwnj;: `Python` | `Java` | `C/C++` | `JavaScript`  
-- &zwnj;**🔧 Tools & Frameworks**&zwnj;: `Git` | `Linux` | `React` | `TensorFlow`  
-- &zwnj;**🗄️ Databases**&zwnj;: `MySQL` | `MongoDB`  
-- &zwnj;**☁️ Cloud & DevOps**&zwnj;: `Docker` | `AWS` (Learning)  
+- &zwnj;**🔧 Tools & Frameworks**&zwnj;: `Git` | `Linux` | `React` | `Pytorch`  
+- &zwnj;**🗄️ Databases**&zwnj;: `MySQL` 
 
 ---
 
 ### 🔥 Current Interests
 - 🤖 Machine Learning & AI Algorithms  
 - 🌐 Full-Stack Development  
-- 📱 Mobile App Design  
 - 🧪 Open Source Contributions  
 
 ---
 
 ### 📫 Let’s Connect!
-- &zwnj;**💌 Email**&zwnj;: [zheyan.li@example.com](mailto:zheyan.li@example.com)  
-- &zwnj;**📱 LinkedIn**&zwnj;: [Zheyan Li](https://www.linkedin.com/in/zheyanli)  
-- &zwnj;**🐱 GitHub**&zwnj;: [@Zheyan-Li](https://github.com/Zheyan-Li)  
-- &zwnj;**📝 Blog**&zwnj;: [My Tech Notes](https://zheyan.tech) *(Optional)*  
+- &zwnj;**💌 Email**&zwnj;: [lizheyan@stu.xmu.edu.cn](mailto:lizheyan@stu.xmu.edu.cn)  
+- &zwnj;**🐱 GitHub**&zwnj;: [@Zheyan-Li]([[https://github.com/Zheyan-Li](https://github.com/MikuMiku-666)](https://github.com/MikuMiku-666))  
+- &zwnj;**📝 Blog**&zwnj;: [My Tech Notes]([https://zheyan.tech](https://www.cnblogs.com/wondering-world)) *(Optional)*  
 
 ---
 
