@@ -31,7 +31,7 @@
 ---
 
 ### ⚡ Fun Fact  
-🎮 When I’m not coding, I’m probably gaming or DIY my own computers! 🛠️💡  
+🎮 When I’m not coding, I’m probably gaming or DIYing my own computers! 🛠️💡  
 
 ---
 
