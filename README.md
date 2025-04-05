@@ -26,7 +26,7 @@
 ### 📫 Let’s Connect!
 - &zwnj;**💌 Email**&zwnj;: [lizheyan@stu.xmu.edu.cn](mailto:lizheyan@stu.xmu.edu.cn)  
 - &zwnj;**🐱 GitHub**&zwnj;: [@Zheyan-Li](https://github.com/MikuMiku-666)
-- &zwnj;**📝 Blog**&zwnj;: [My Tech Notes](https://www.cnblogs.com/wondering-world) 
+- &zwnj;**📝 Blog**&zwnj;: [My Tech Notes(CN)](https://www.cnblogs.com/wondering-world) 
 
 ---
 
